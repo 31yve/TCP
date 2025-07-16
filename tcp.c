@@ -278,7 +278,7 @@ int main(int argc, char *argv[])
 {
     if(argc < 5)
     {
-        fprintf(stderr, "davin-code: %s <target IP> <port> <threads> <time (Milisecond)>\n", argv[0]);
+        fprintf(stderr, "ye-code: %s <target IP> <port> <threads> <time (Milisecond)>\n", argv[0]);
         exit(-1);
     }
  
